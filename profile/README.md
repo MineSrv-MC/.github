@@ -1,12 +1,32 @@
-## Hi there 👋
+# MineSrv
 
-<!--
+MineSrvとは2022/05/22に開発が始まった採掘鯖です。今編集してる2025/04/23でもサーバーに参加しようと思えばできますが、まだ開発中です。そしてこの鯖には次のような機能があります。
 
-**Here are some ideas to get you started:**
+![](https://github.com/MineSrv-MC/MineSrv/blob/main/image/title.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ギルド
+
+ギルドとは、プレイヤーがグループのようなものを作って、そこに何人も所属できるシステムです。ギルドごとに専用のデータや、戦績、ランキング、ギルドチャットなどもできるようにする予定です。
+
+## フレンド
+
+フレンド機能では、他のプレイヤーを登録してオンライン状態を確認したりできます。将来的にはメッセージ送信や招待機能も追加予定です。
+
+## 採掘レベルと報酬
+
+プレイヤーは採掘を通じてレベルアップします。一定のレベルに到達すると、特別な報酬がもらえるように将来的にします。
+
+## money
+
+MineSrv独自の通貨「money」があり、これを使ってショップでアイテムを購入したり、特殊機能をアンロックすることができます。採掘での納品やクエストポイント交換や実績で入手可能です。
+
+## 今後の予定
+
+- マイ採掘所機能（自分専用の採掘エリア）
+- ギルド対抗の採掘イベント
+- 採掘バフパネル（運営がバフを配布）
+- データ連携やランキングWebサイトの公開
+
+---
+
+//参加方法や詳しい使い方は、公式DiscordまたはWikiをご確認ください！

@@ -2,6 +2,8 @@
 
 MineSrvとは2022/05/22に開発が始まった採掘鯖です。今編集してる2025/04/23でもサーバーに参加しようと思えばできますが、まだ開発中です。そしてこの鯖には次のような機能があります。
 
+![](https://lh6.googleusercontent.com/dePpFdAapY1I6Z33Iit4WGiJBc6WIU08in-MeMzG7jQL8_ZGvpzENwCaeskBo7_ARnXLJzotVUK3MykIX6_l-AH0lvmgGQxspHUYqoMipry73-ZtoeXF6dxf69kexqImwA=w1280)
+
 ## ギルド
 
 ギルドとは、プレイヤーがグループのようなものを作って、そこに何人も所属できるシステムです。ギルドごとに専用のデータや、戦績、ランキング、ギルドチャットなどもできるようにする予定です。

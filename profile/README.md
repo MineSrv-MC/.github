@@ -3,6 +3,8 @@
 MineSrvとは2022/05/22に開発が始まった採掘鯖です。今編集してる2025/04/23でもサーバーに参加しようと思えばできますが、まだ開発中です。そしてこの鯖には次のような機能があります。
 
 ![](https://github.com/MineSrv-MC/MineSrv/blob/main/image/title.png)
+## リンク一覧
+![](https://github.com/MineSrv-MC/.github/profile/利用規約.md)
 
 [MineSrv Wiki](https://github.com/gori5000/MineSrv-Wiki/blob/main/README.md)
 ## ギルド

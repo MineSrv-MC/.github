@@ -4,9 +4,10 @@ MineSrvとは2022/05/22に開発が始まった採掘鯖です。今編集して
 
 ![](https://github.com/MineSrv-MC/MineSrv/blob/main/image/title.png)
 ## リンク一覧
-![](https://github.com/MineSrv-MC/.github/profile/利用規約.md)
-
 [MineSrv Wiki](https://github.com/gori5000/MineSrv-Wiki/blob/main/README.md)
+
+[利用規約とルール](https://github.com/MineSrv-MC/.github/profile/利用規約.md)
+
 ## ギルド
 
 ギルドとは、プレイヤーがグループのようなものを作って、そこに何人も所属できるシステムです。ギルドごとに専用のデータや、戦績、ランキング、ギルドチャットなどもできるようにする予定です。
